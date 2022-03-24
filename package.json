@@ -1,0 +1,18 @@
+  {
+  "name": "osu-cad-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.2"
+  }
+}
